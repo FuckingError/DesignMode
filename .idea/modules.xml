@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Proxy_Pattern/01_Proxy_Pattern.iml" filepath="$PROJECT_DIR$/01_Proxy_Pattern/01_Proxy_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Singleton_Pattern/02_Singleton_Pattern.iml" filepath="$PROJECT_DIR$/02_Singleton_Pattern/02_Singleton_Pattern.iml" />
+    </modules>
+  </component>
+</project>
